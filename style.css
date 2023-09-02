@@ -416,7 +416,7 @@ body{
         background-color: black;
     }
 }
-@media (min-width:1024px) {
+@media (min-width:1022px) {
     .section_wrapper {
         display: flex;
         justify-content: center;
