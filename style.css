@@ -455,7 +455,7 @@ body{
     }
     
 }
-@media (min-width:1440px) {
+@media (min-width:1442px) {
     .section_wrapper {
         display: flex;
         justify-content: center;
